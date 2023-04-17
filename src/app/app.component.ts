@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularProject';
+  // loginas:string ='Green Soft';
+  // msg:string = "Two way binding";
 }
+
